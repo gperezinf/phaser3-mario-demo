@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+  margin: 0;
+  background-color: black;
+  font-family:MarioFont
+}
+
+
+@font-face {
+  font-family: MarioFont;
+  src: url('/assets/Super-Mario-Bros--3.ttf');
+}
